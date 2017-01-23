@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+	<meta charset="UTF-8"/>
+	<link href="style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1>Bonjour</h1>
+    <img class="img" src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/12985385_468975953300803_6532443771367437203_n.jpg?oh=ff72c4679fe9f9df74a4a7010225b5a4&oe=591463C7" height="100" width="100"/>
+    <div class="divprez"> 
+    <p>Je m'appelle Lisa</p>
+    <p> Je vis a Paris </p>
+    <p>Je suis pas bien grande, brune avec des cheveux un peu <FONT color="red"> rouges</p> </FONT color>
+    <a href="https://www.facebook.com/lisa.toulzac">Voici mon compte facebook </a>	
+    </div>
+    <div class="divjax">
+    <h3> Jax </h3>
+    <p class="Jax">Il est assez rare qu'un champion soit plus connu pour ses actes après qu'il a rejoint la League of Legends qu'avant. C'est le cas de Jax, au sujet duquel on peut affirmer qu'il compte parmi les combattants les plus prolifiques actuellement inscrits à l'Institut de la guerre. Avant de rejoindre la League, Jax était un mercenaire ordinaire. Pour une raison connue uniquement de l'ancien dirigeant de la League, le Grand conseiller Reginald Ashram, Jax fut mis en tête de liste des candidats au Jugement de la League, le processus qui permet d'accepter ou de rejeter un champion. Son jugement fut le plus rapide dans l'histoire de la League : à peine avait-il commencé que les Portes des élus se mirent à briller et à s'ouvrir. Jax ne vit et n'entendit rien pendant son Jugement.</p>
+    <p class="Jax">Jax devint immédiatement une terreur dans les Champs de justice. L'autoproclamé ''Maître d'armes de la League'' détient à ce jour le record absolu de victoires à la suite. Des invocateurs s'inquiétèrent que l'on puisse remettre en cause l'objectivité de la League à cause d'un guerrier imbattable. Ainsi, le nouveau dirigeant de la League (qui succéda à Reginald Ashram après sa disparition), le Grand conseiller Heyward Relivash, décida d'imposer des handicaps spécifiques à Jax. C'était une première pour la League, et le seul cas existant à ce jour. Le brutal guerrier répondit à sa façon et, pour protester, décida de ne plus se battre qu'avec un lampadaire en bronze. Ni les handicaps de la League ni le lampadaire ne mirent un terme à ses victoires. La League a depuis annulé les handicaps, mais Jax a conservé son lampadaire : à ce jour, il s'en sert encore bel et bien au combat.
+   </p>
+   </div>
+   <p class="passif">
+<strong>Acharnement</strong>:Les attaques de base successives de Jax augmentent continuellement sa vitesse d'attaque
+   </p>
+   <p class="actif">
+<strong> Frappe bondissante </strong>
+
+<div class="bleu">Coût</div> : <div class="bleu">65</div> pts de mana
+<div class="jaune">Portée</div> : 700
+
+Jax bondit sur une unité. S'il s'agit d'un ennemi, il le frappe avec son arme.
+
+Jax bondit sur l'unité ciblée, infligeant <div class="rouge">70/110/150/190/230</div> (<div class="rouge">+100%</div> des dégâts d'attaque supplémentaires) (<div class="vert">+60%</div> de la puissance) pts de dégâts physiques s'il s'agit d'un ennemi.
+  </p>
+  <p class="actif">
+
+<strong>Élargissement</strong>
+
+<div class="bleu">Coût</div> : <div class="bleu">30</div> pts de mana
+<div class="jaune">Portée</div> : 300
+
+Jax charge son arme en énergie pour infliger des dégâts supplémentaires avec sa prochaine attaque.
+
+Jax charge son arme en énergie pour que sa prochaine attaque de base ou sa prochaine Frappe bondissante inflige <div class="red">40/75/110/145/180</div> (<div class="vert">+60%</div> de la puissance) pts de dégâts magiques supplémentaires.
+
+  </p>
+	<table id="tableau" border="1">
+	<thead>
+      <p> Mes Hobbies </p>
+	</thead>
+	<tbody>
+   <tr>
+      <th>Musique</th>
+      <th>Sport</th>
+      <th>Film</th>
+   </tr>
+   <tr>
+      <td>Muse</td>
+      <td>KravMaga</td>
+      <td>Insaisissable</td>
+   </tr>
+   <tr>
+      <td>Stupeflip</td>
+      <td>Basket</td>
+      <td>Harry Potter</td>
+   </tr>
+	</tbody>
+	</table>
+ <div id="page">
+     <nav id="sidebar">
+         <ul>
+            <li><a href="#">Retour en haut</a> </li>
+         </ul>
+     </nav>
+  </div>
+ </body>
+</html>

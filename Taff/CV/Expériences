@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+ <head>
+        <meta charset="UTF-8"/>
+        <link href="style.css" rel="stylesheet" type="text/css">
+ </head>
+ <body>
+         <p class="salut">Mes expériences.</p>
+		 <img class="img" src="data:image/jpeg;base64,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"/>
+       <ul class ="compétences">
+	     <li>Professionelle</li>
+	     <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+		 <li>Sed placerat mi sed neque sagittis vulputate</li>
+		 <li>Ut nec orci imperdiet, porta sem eu, elementum libero</li>
+		 <li>Maecenas fringilla elit sit amet nunc euismod ultricies tristique id justo</li>
+		 <li>Integer eu metus ut sapien sodales facilisis</li>
+	   </ul>
+       <ul class ="compétences">
+	     <li>Personelles</li>
+	     <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+		 <li>Sed placerat mi sed neque sagittis vulputate</li>
+		 <li>Ut nec orci imperdiet, porta sem eu, elementum libero</li>
+		 <li>Maecenas fringilla elit sit amet nunc euismod ultricies tristique id justo</li>
+		 <li>Integer eu metus ut sapien sodales facilisis</li>
+	   </ul>
+        <nav>
+        <ul id="navigation">
+  <a href="file:///home/lisa/Bureau/Taff/CV/Comp%C3%A9tences" title="Compétences">Compétences</a>
+  <a href="file:///home/lisa/Bureau/Taff/CV/Cursus" title="Cursus">Cursus</a>
+  <a href="file:///home/lisa/Bureau/Taff/CV/Exp%C3%A9riences" title="Expériences">Expériences</a>
+  <a href="file:///home/lisa/Bureau/Taff/CV/Loisir" title="Loisirs">Loisirs</a>
+  <a href="file:///home/lisa/Bureau/Taff/CV/Acceuil" title="Retour à la page d'acceuil">Retour à la page d'acceuil</a>
+  </nav>
+</ul>
+ </body>
+</html>
