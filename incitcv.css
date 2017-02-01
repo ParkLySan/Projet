@@ -1,0 +1,107 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#134E5E;
+
+    top: 0;
+    width: 100%;
+  }
+
+  li {
+      float: left;
+  }
+
+  li #linkspg {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li #linkspg:hover:not(.active) {
+  background-color: #34e89e;;
+  }
+
+  body {
+    font-family: monospace;
+    font-size: 13px;
+    font-weight: bold;
+  background-image:url(http://www.texturepalace.com/gallery/metal/131231/rusty-metal-texture-2.jpg);
+   margin-bottom: 11%;
+  }
+
+body {
+    margin: 0;
+    background-color :  #232526 ;
+    color : white;
+    font-family: monospace;
+    line-height :normal;
+
+}
+
+p {
+margin-left: 25%;
+margin-right: 25%;
+text-align: center;
+}
+
+#soundcloud {
+
+color: red;
+text-align: center;
+}
+
+img:hover{
+  width: 30%;
+  transition : 2s;
+}
+
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 20% ;
+}
+
+.titrechiantsurlesborders {
+  margin-top: 50px;
+  display: block;
+}
+
+h1 {
+
+ border: 1px;
+ border-color: white;
+ border-style: solid;
+ display: block;
+ text-align: center;
+ width: 1em;
+ margin-left: auto;
+ margin-right: 50%;
+}
+
+
+h2 {
+ margin-left: auto;
+ margin-right:auto;
+ color : black ;
+ text-align: center;
+ display:block;
+}
+
+#sidebar {
+opacity: 0.8;
+}
+
+#flooter{
+  text-align: left;
+  margin-left: 0;
+  margin-right: 80%;
+
+}
