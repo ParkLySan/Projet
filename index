@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+  <title>Index</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="incitcv.css" />
+  </head>
+<body>
+
+  <header id="menu">
+    <nav id="sidebar">
+         <ul>
+            <li><a id="linkspg" href="index">Accueil</a></li>
+            <li><a id="linkspg" href="competences">Competences</a></li>
+            <li><a id="linkspg" href="formation">Formation</a></li>
+            <li><a id="linkspg" href="experience">Experience</a></li>
+            <li><a id="linkspg" href="loisir">Loisir</a></li>
+
+         </ul>
+     </nav>
+  </header>
+
+  <main id="top" class="titrechiantsurlesborders">
+    <h1>Alex </br> Crst</h1>
+    <h2>apprenant<h2>
+  </main>
+
+
+
+    <article>  <img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/1923836_1006002516089758_3425694497249503041_n.jpg?oh=c8f540962507addcb93b86c2c6ceb1bc&oe=59139BCA"  width="50%" > </article>
+    <article>  <p>21 ans, web developpeur en devenir, ingé son, beatmaker, paris 20éme.</p></article>
+    <article>  <p>contacts : </p> <p> alexcrst1@gmail.com </p></article>
+    <article> <p>soundcloud : <a id="soundcloud" href="https://soundcloud.com/thinking-no-more">KA$PER/KH££Z£</a></article>
+
+
+
+
+</body>
+</html>
