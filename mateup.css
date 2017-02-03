@@ -1,0 +1,123 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#134E5E;
+    top: 0;
+    width: 100%;
+  }
+
+  li {
+      float: left;
+  }
+
+  li #linkspg {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 70px;
+    font-size: 24px;
+    text-decoration: none;
+      margin-left:10%;
+  }
+
+  li #linkspg:hover:not(.active) {
+  background-color: #34e89e;;
+  }
+
+  .logo {
+    background-image: url("loft.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30%;
+  }
+
+  body {
+    font-family: "Arial Black";
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    background-image:url("body_img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+p {
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+  font-size: 24px;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #000, 0 0 5px #000;
+  line-height: 1.5em;
+}
+
+
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70% ;
+  animation-duration: 3s;
+  animation-name: logo;
+
+}
+
+@keyframes logo {
+from {
+ width: 50%;
+}
+to {
+  width: 70%;
+}
+}
+
+#sidebar {
+opacity: 0.8;
+}
+
+
+
+#reseaux ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 10px;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+i {
+  border-radius: 100%;
+  background-color: #34e89e;
+  padding: 20px;
+  height: 70px;
+  width: 70px;
+}
+
+.credits {
+  background-color: #134E5E;
+  position: absolute;
+  opacity: 0.8;
+}
+
+.credits p {
+  color: #fff;
+  font-size: 17px;
+}
+
+.mtup {
+
+text-align: center;
+
+}
+
+#contact{
+  margin-top: 17%;
+  margin-bottom: 17%;
+}
